@@ -83,7 +83,7 @@ n[2][2]='O';
 
 
 int main(){
-
+cout<<"A player has to choose the spot with a number. The player have to press number not string"<<endl;
 
 cout<<"Enter your name: ";
 getline(cin>>ws,p1);
